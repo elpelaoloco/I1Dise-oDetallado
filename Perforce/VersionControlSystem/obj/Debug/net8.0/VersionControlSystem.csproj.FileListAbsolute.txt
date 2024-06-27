@@ -1,0 +1,11 @@
+/home/jose/Escritorio/2024-1/Diseño detallado/Pruebas/I1Dise-oDetallado/Perforce/VersionControlSystem/bin/Debug/net8.0/VersionControlSystem.deps.json
+/home/jose/Escritorio/2024-1/Diseño detallado/Pruebas/I1Dise-oDetallado/Perforce/VersionControlSystem/bin/Debug/net8.0/VersionControlSystem.dll
+/home/jose/Escritorio/2024-1/Diseño detallado/Pruebas/I1Dise-oDetallado/Perforce/VersionControlSystem/bin/Debug/net8.0/VersionControlSystem.pdb
+/home/jose/Escritorio/2024-1/Diseño detallado/Pruebas/I1Dise-oDetallado/Perforce/VersionControlSystem/obj/Debug/net8.0/VersionControlSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Escritorio/2024-1/Diseño detallado/Pruebas/I1Dise-oDetallado/Perforce/VersionControlSystem/obj/Debug/net8.0/VersionControlSystem.AssemblyInfoInputs.cache
+/home/jose/Escritorio/2024-1/Diseño detallado/Pruebas/I1Dise-oDetallado/Perforce/VersionControlSystem/obj/Debug/net8.0/VersionControlSystem.AssemblyInfo.cs
+/home/jose/Escritorio/2024-1/Diseño detallado/Pruebas/I1Dise-oDetallado/Perforce/VersionControlSystem/obj/Debug/net8.0/VersionControlSystem.csproj.CoreCompileInputs.cache
+/home/jose/Escritorio/2024-1/Diseño detallado/Pruebas/I1Dise-oDetallado/Perforce/VersionControlSystem/obj/Debug/net8.0/VersionControlSystem.dll
+/home/jose/Escritorio/2024-1/Diseño detallado/Pruebas/I1Dise-oDetallado/Perforce/VersionControlSystem/obj/Debug/net8.0/refint/VersionControlSystem.dll
+/home/jose/Escritorio/2024-1/Diseño detallado/Pruebas/I1Dise-oDetallado/Perforce/VersionControlSystem/obj/Debug/net8.0/VersionControlSystem.pdb
+/home/jose/Escritorio/2024-1/Diseño detallado/Pruebas/I1Dise-oDetallado/Perforce/VersionControlSystem/obj/Debug/net8.0/ref/VersionControlSystem.dll
